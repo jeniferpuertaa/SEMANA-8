@@ -84,7 +84,7 @@ td {
     
     border: 1px solid;
     padding: 3px;
-    align-content: center;
+
 
 }
 
@@ -97,4 +97,9 @@ td {
 }
 .resaltador {
     color: red;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+    display: table;
 }
