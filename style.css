@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.p {
+    color: black;
+    padding: 2px;
+}
+
+.p2 {
+    color: rgba(177, 121, 100, 0.74);
+    margin-top: 20px;
+}
+
+p {
+    padding: 2px;
+}
+
+.resaltado-h1 {
+    color: red;
+}
+
+h1 {
+    color: aqua;
+    margin-bottom: 8px;
+}
+
+h2 {
+    color: blue;
+    margin-bottom: 8px;
+}
+
+h4 {
+    color: blue;
+    margin: 0;
+    font-size: 15px;
+    width: 307px;
+    padding: 2px;
+    text-align: center;
+       
+}
+
+u {
+    color: brown;
+}
+
+em {
+    color: rgba(10, 10, 212, 0.767);
+}
+
+.resaltado-p2 {
+    color: blueviolet;
+}
+
+.contenedor {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 20px auto;
+    align-content: center;
+    text-align: justify;
+    font-size: 15px;
+
+}
+
+.u {
+    color: green;
+}
+
+span {
+    color: fuchsia;
+}
+
+section {
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+
+table th,
+td {
+    
+    border: 1px solid;
+    padding: 3px;
+    align-content: center;
+
+}
+
+.resaltadov {
+    color: rgb(8, 187, 8);
+}
+.resaltadoa {
+
+    color: rgba(185, 185, 9, 0.74);
+}
+.resaltador {
+    color: red;
+}

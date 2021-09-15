@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.p {
+    color: black;
+    padding: 2px;
+}
+
+.p2 {
+    color: rgba(177, 121, 100, 0.74);
+    padding: 15px 50px 10px 10px;
+}
+
+p {
+    padding: 2px;
+}
+
+.resaltado-h1 {
+    color: red;
+    border: 1px solid black;
+}
+
+.titulo1 {
+    color: aqua;
+    font-size: 28px;
+}
+
+.titulo2 {
+    color: blue;
+}
+
+h4 {
+    color: rgba(10, 10, 212, 0.767);
+}
+
+span {
+    color: fuchsia;
+   }
+
+u {
+    color: brown;
+    border: 1px solid burlywood;
+}
+
+em {
+    color: rgba(10, 10, 212, 0.767);
+}
+
+.resaltado-p2 {
+    color: blueviolet;
+    border: 1px solid aquamarine;
+}
+
+.contenedor {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 10px auto;
+    align-content: center;
+    text-align: justify;
+    font-size: 15px;
+    border: 1px solid;
+}
+
+.contenedor2 {
+    padding: 10px 150px 0 10px;
+
+}
+
+.u {
+    color: green;
+    border: 1px solid mediumorchid;
+}
+
+section {
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.seccionf {
+    margin: 15px 40px 5px 5px;
+}
+
+table th,
+td {
+
+    border: 1px solid;
+    padding: 3px;
+    align-content: center;
+
+}
+
+.resaltadov {
+    color: rgb(8, 187, 8);
+}
+
+.resaltadoa {
+
+    color: rgba(185, 185, 9, 0.74);
+}
+
+.resaltador {
+    color: red;
+}
+
+.resaltadob {
+    border-color: darkgray;
+}
+
+.titulo1 {
+    margin-bottom: 10px;
+}
+
+div {
+    border: 1px solid;
+}
+
+.div2 {
+    color: orange;
+}
+
+.borde {
+    border: 1px solid cadetblue;
+    color: chartreuse;
+}
+
+.contenedorfinal {
+    border: 1px solid red;
+    padding: 5px 80px 5px 5px;
+}
+.tablat {
+    margin: 0;
+    border: 1px solid black;
+       font-size: 15px;
+       width: 307px;
+       padding: 2px;
+       text-align: center;
+       color: blue;
+
+       }
+       i {
+        border: 1px solid black;
+    }
+    .span2 {
+        color: fuchsia;
+        border: 1px solid gray;
+       
+    }
