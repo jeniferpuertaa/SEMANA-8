@@ -40,7 +40,7 @@ h4 {
     width: 307px;
     padding: 2px;
     text-align: center;
-       
+
 }
 
 u {
@@ -81,7 +81,7 @@ section {
 
 table th,
 td {
-    
+
     border: 1px solid;
     padding: 3px;
 
@@ -91,13 +91,16 @@ td {
 .resaltadov {
     color: rgb(8, 187, 8);
 }
+
 .resaltadoa {
 
     color: rgba(185, 185, 9, 0.74);
 }
+
 .resaltador {
     color: red;
 }
+
 table {
     border-collapse: collapse;
     text-align: center;
